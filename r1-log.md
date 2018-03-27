@@ -19,3 +19,11 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Thoughts**: It's amazing how concise a solution to a JS algorithm can be. I think the time I spent setting up VS Code and all the tools along with it will be worth it when it'll help me conform to established styles and pump out some pro-grade code.
 
 **Link(s) to work**: [My Codewars solution](https://www.codewars.com/users/klcantrell/completed_solutions)
+
+### Day 3: March 26, 2018
+
+**Today's Progress**: Started Wes Bos's CSS Grid course and did some practice layouts with grid. Gearing up to design the layout for my portfolio!
+
+**Thoughts**: Really itching to build my portfolio and get to the next stage of preparing for a job search.
+
+**Link(s) to work**: [CSS Grid course](https://www.CSSGrid.io)
