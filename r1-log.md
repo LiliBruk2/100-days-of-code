@@ -26,4 +26,4 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 **Thoughts**: Really itching to build my portfolio and get to the next stage of preparing for a job search.
 
-**Link(s) to work**: [CSS Grid course](https://www.CSSGrid.io)
+**Link(s) to work**: [CSS Grid course](https://CSSGrid.io)
