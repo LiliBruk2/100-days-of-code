@@ -27,3 +27,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Thoughts**: Really itching to build my portfolio and get to the next stage of preparing for a job search.
 
 **Link(s) to work**: [CSS Grid course](https://CSSGrid.io)
+
+### Day 4: March 27, 2018
+
+**Today's Progress**: Cranked through all but a few exercises of Wes Bos's CSS Grid course. Also solved the "Valid Parentheses" challenge on Codewars and graduated to 6 kyu!
+
+**Thoughts**: I started worrying about browser support of CSS Grid and considered not using it to design my portfolio layout. After some research on [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement), [Can I Use](https://caniuse.com/#feat=css-grid), and [this blog](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/) by Jen Simmons, I'm less worried about and will be going for it. I'm sure there'll be some support headaches to work out, but that's all a part of it!
