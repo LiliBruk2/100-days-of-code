@@ -45,3 +45,11 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Completed the "Correct the mistakes of the character recognition software" and the "Remove String Spaces" Codewars katas. My solution for the latter was just like the one voted best practice!
 
 **Thoughts**: Must start portoflio soon! This weekend, can't keep losing time for it.
+
+### Day 7: March 30, 2018
+
+**Today's Progress**: Completed the CSS Grid course by Wes Bos! Also, completed the "Thinkful - List Drills: Longest word" and "Number of People in the Bus" challenges on Codewars.
+
+**Thoughts**: Nothing that can distract me (not even myself &#1f604) from building my portfolio now. Wanted to start it today but got worn out from the progress of the day as well as from family time.
+
+**Link(s) to work**: [My Codewars solution](https://www.codewars.com/users/klcantrell/completed_solutions)
