@@ -33,3 +33,15 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Cranked through all but a few exercises of Wes Bos's CSS Grid course. Also solved the "Valid Parentheses" challenge on Codewars and graduated to 6 kyu!
 
 **Thoughts**: I started worrying about browser support of CSS Grid and considered not using it to design my portfolio layout. After some research on [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement), [Can I Use](https://caniuse.com/#feat=css-grid), and [this blog](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/) by Jen Simmons, I'm less worried about and will be going for it. I'm sure there'll be some support headaches to work out, but that's all a part of it!
+
+### Day 5: March 28, 2018
+
+**Today's Progress**: More CSS Grid exercises today. Toward the end of the CSS Grid course by Wes Bos. Gears are turning for my portfolio design!
+
+**Thoughts**: Really itching to build my portfolio and get to the next stage of preparing for a job search.
+
+### Day 6: March 29, 2018
+
+**Today's Progress**: Completed the "Correct the mistakes of the character recognition software" and the "Remove String Spaces" Codewars katas. My solution for the latter was just like the one voted best practice!
+
+**Thoughts**: Must start portoflio soon! This weekend, can't keep losing time for it.
