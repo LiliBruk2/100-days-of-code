@@ -53,3 +53,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Thoughts**: Nothing that can distract me (not even myself 😄) from building my portfolio now. Wanted to start it today but got worn out from the progress of the day as well as from family time.
 
 **Link(s) to work**: [My Codewars solution](https://www.codewars.com/users/klcantrell/completed_solutions)
+
+### Day 8: March 31, 2018
+
+**Today's Progress**: Spent today's coding time configuring and testing the build settings for my portfolio project. Especially took time learning about how minification is done in tbe new version of Webpack especially with its new production mode setting.  Spent another good chunk of time getting to know PostCSS and its ecosystem of plugins especially postcss-preset-env.  Haven't tried it yet but wondering if I can do custom properties in IE 11 with it.  I'll need to leave that experiment for another day however.
+
+**Thoughts**: It's amazing how much time it takes just to setup a project.  As much of a tinkerer I am, I need to remember to keep my eyes on the prize and not tinker muself away from the task at hand - my portfolio!
