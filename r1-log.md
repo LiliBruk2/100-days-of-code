@@ -53,3 +53,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Thoughts**: Nothing that can distract me (not even myself 😄) from building my portfolio now. Wanted to start it today but got worn out from the progress of the day as well as from family time.
 
 **Link(s) to work**: [My Codewars solution](https://www.codewars.com/users/klcantrell/completed_solutions)
+
+### Day 8: March 31, 2018
+
+**Today's Progress**: Late post - catching up with this entry after the Easter holiday. Got my build config files setup and tested with some dummy code. Really explored what PostCSS and Webpack's new minification settings were doing for me. With PostCSS, wanted to see how the autoprefixer and postcss-preset-env plugins were processing my CSS Grid and CSS custom properties code especially for supporting IE 11. Learned a great deal about browserslist, the caniuse api, as well as how browsers deal with CSS code it doesn't understand. Also learned about how IE 10+ implemented an old spec of CSS Grid. With Webpack 4's minification, learned a bit about the differences between Babel's minify preset vs. Webpack's optimization settings vs. Babel's minify plugin.
+
+**Thoughts**: Now that all the boring / frustrating config settings are mostly dialed in for the build, I should be able to tear through some actual coding up of my portfolio site. Stoked!
