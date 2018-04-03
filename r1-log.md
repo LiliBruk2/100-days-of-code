@@ -65,3 +65,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Late post - catching up with this entry after the Easter holiday. Got my build config files setup and tested with some dummy code. Really explored what PostCSS and Webpack's new minification settings were doing for me. With PostCSS, wanted to see how the autoprefixer and postcss-preset-env plugins were processing my CSS Grid and CSS custom properties code especially for supporting IE 11. Learned a great deal about browserslist, the caniuse api, as well as how browsers deal with CSS code it doesn't understand. Also learned about how IE 10+ implemented an old spec of CSS Grid. With Webpack 4's minification, learned a bit about the differences between Babel's minify preset vs. Webpack's optimization settings vs. Babel's minify plugin.
 
 **Thoughts**: Now that all the boring / frustrating config settings are mostly dialed in for the build, I should be able to tear through some actual coding up of my portfolio site. Stoked!
+
+### Day 10: April 2, 2018
+
+**Today's Progress**: Spent all my coding time today working on my portfolio site. I was able to create a wireframing of my home page as well as flesh it out with some color and images. I am surprised at how much I can do with CSS Grid in IE 11 despite it being the old implementation. So far, I've been able to create a layout in both IE 11 and Firefox Development Edition that I'm pretty happy with and so far they look the same. Thanks to tools like browsersync and postcss, I can see the results of my code right away and make frequent adjustments as I go so that my page looks similar in multiple browsers.
+
+**Thoughts**: Feeling the momentum. Can't wait to get this portfolio to a good place so that I can start thinking about a job search.
