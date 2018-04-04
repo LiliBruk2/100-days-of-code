@@ -71,3 +71,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Spent all my coding time today working on my portfolio site. I was able to create a wireframing of my home page as well as flesh it out with some color and images. I am surprised at how much I can do with CSS Grid in IE 11 despite it being the old implementation. So far, I've been able to create a layout in both IE 11 and Firefox Development Edition that I'm pretty happy with and so far they look the same. Thanks to tools like browsersync and postcss, I can see the results of my code right away and make frequent adjustments as I go so that my page looks similar in multiple browsers.
 
 **Thoughts**: Feeling the momentum. Can't wait to get this portfolio to a good place so that I can start thinking about a job search.
+
+### Day 11: April 3, 2018
+
+**Today's Progress**: Solved the "Descending Order" and "Find the next perfect square!" katas on Codewars. Also got more time in wireframing my portfolio specifically the About and Projects sections. May need to search for some design inspiration on how I want these sections to look and how I want transitions from sections to look.
+
+**Thoughts**: It's hard sometimes when you get to staring at a screen trying to simultaneously picture how you want your page to look / respond as well as think through how that could be coded. Important to keep those two mind spaces separate and tackle them one at a time.
