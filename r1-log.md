@@ -77,3 +77,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Solved the "Descending Order" and "Find the next perfect square!" katas on Codewars. Also got more time in wireframing my portfolio specifically the About and Projects sections. May need to search for some design inspiration on how I want these sections to look and how I want transitions from sections to look.
 
 **Thoughts**: It's hard sometimes when you get to staring at a screen trying to simultaneously picture how you want your page to look / respond as well as think through how that could be coded. Important to keep those two mind spaces separate and tackle them one at a time.
+
+### Day 12: April 4, 2018
+
+**Today's Progress**: Spent a ton of time on the portfolio today. I wired up a router that I coded myself with nothing but Vanilla JS. Basic but gets the job done. I also fleshed out styles a little on the landing page as well as wireframed up my Publications section.
+
+**Thoughts**: It's hard when comparing my portfolio to others I've seen to not think that mine perhaps looks dull or clunky. But, it does help drawing inspiration from the designs of others.
