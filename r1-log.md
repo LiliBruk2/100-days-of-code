@@ -83,3 +83,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Spent a ton of time on the portfolio today. I wired up a router that I coded myself with nothing but Vanilla JS. Basic but gets the job done. I also fleshed out styles a little on the landing page as well as wireframed up my Publications section.
 
 **Thoughts**: It's hard when comparing my portfolio to others I've seen to not think that mine perhaps looks dull or clunky. But, it does help drawing inspiration from the designs of others.
+
+### Day 13: April 5, 2018
+
+**Today's Progress**: Solved the "Rot13" kata on Codewars. Worked on the fleshing out the landing page of my portfolio site and included some SVG animations to spice things up.
+
+**Thoughts**: Feels great to be in a groove with my portfolio project. Hope use this weekend to get a lot of work done so I can start thinking about a resu,e.
