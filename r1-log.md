@@ -88,4 +88,10 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 **Today's Progress**: Solved the "Rot13" kata on Codewars. Worked on the fleshing out the landing page of my portfolio site and included some SVG animations to spice things up.
 
-**Thoughts**: Feels great to be in a groove with my portfolio project. Hope use this weekend to get a lot of work done so I can start thinking about a resu,e.
+**Thoughts**: Feels great to be in a groove with my portfolio project. Hope use this weekend to get a lot of work done so I can start thinking about a resume.
+
+### Day 14: April 6, 2018
+
+**Today's Progress**: Solved the "How Many Unique Consonants?" kata on Codewars. Tweaked out on the animations that play on the initial load of my portfolio's landing page. I love that open-source tools like KUTE.js are out there to help smooth out browser inconsistencies. Could not get things to play well on IE 11 until I incorporated that library.
+
+**Thoughts**: As with day 13, it feels great to be in a groove with my portfolio project. Hope use this weekend to get a lot of work done so I can start thinking about a resume.
