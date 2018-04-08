@@ -95,3 +95,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Solved the "How Many Unique Consonants?" kata on Codewars. Tweaked out on the animations that play on the initial load of my portfolio's landing page. I love that open-source tools like KUTE.js are out there to help smooth out browser inconsistencies. Could not get things to play well on IE 11 until I incorporated that library.
 
 **Thoughts**: As with day 13, it feels great to be in a groove with my portfolio project. Hope use this weekend to get a lot of work done so I can start thinking about a resume.
+
+### Day 15: April 7, 2018
+
+**Today's Progress**: Got a lot of good work done on the portfolio today. Actually had a use case for the _pointer-events_ CSS prop because a nested element was blocking what I wanted happening on the parent's _active_ pseudo-class. Also, spent a good deal of setting up a handler of the scroll event that would kick in once the user scrolled down enough. Learned about throttling, _requestAnimationFrame_, and window properties such as _pageYOffset_ and _innerHeight_.
+
+**Thoughts**: Every day brings me that much closer to the job search. Scary and exciting. 😮
