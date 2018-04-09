@@ -101,3 +101,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Got a lot of good work done on the portfolio today. Actually had a use case for the _pointer-events_ CSS prop because a nested element was blocking what I wanted happening on the parent's _active_ pseudo-class. Also, spent a good deal of setting up a handler of the scroll event that would kick in once the user scrolled down enough. Learned about throttling, _requestAnimationFrame_, and window properties such as _pageYOffset_ and _innerHeight_.
 
 **Thoughts**: Every day brings me that much closer to the job search. Scary and exciting. 😮
+
+### Day 16: April 8, 2018
+
+**Today's Progress**: Solved the "Directions Reduction" kata on Codewars. Also got more work done on portfolio - added "cross-fade" transitions when changing pages, made landing page more responsive, added some button styles, and made window scroll to top for each page navigation.
+
+**Thoughts**: As in day 15, each day brings me that much closer to the job search. Scary and exciting. 😮
