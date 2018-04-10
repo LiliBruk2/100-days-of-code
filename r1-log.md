@@ -107,3 +107,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Solved the "Directions Reduction" kata on Codewars. Also got more work done on portfolio - added "cross-fade" transitions when changing pages, made landing page more responsive, added some button styles, and made window scroll to top for each page navigation.
 
 **Thoughts**: As in day 15, each day brings me that much closer to the job search. Scary and exciting. 😮
+
+### Day 17: April 9, 2018
+
+**Today's Progress**: Just work on the portfolio today. Added a few breakpoints to ensure intended layout works across a variety of viewports heights and widths. Switched the original "honeycomb" pattern background to a large letter 'K' slowly morphing to a 'C' and then back. It somehow looks less "busy" and more interesting at the same time.
+
+**Thoughts**: Really itching to get this portfolio done!
