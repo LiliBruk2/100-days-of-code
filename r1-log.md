@@ -113,3 +113,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Just work on the portfolio today. Added a few breakpoints to ensure intended layout works across a variety of viewports heights and widths. Switched the original "honeycomb" pattern background to a large letter 'K' slowly morphing to a 'C' and then back. It somehow looks less "busy" and more interesting at the same time.
 
 **Thoughts**: Really itching to get this portfolio done!
+
+### Day 18: April 10, 2018
+
+**Today's Progress**: More portfolio work - navbar is now responsive, refactored my view code into different modules for each view, got a basic content overlay setup for displaying additional info for project items. Code cardio - solved the "Cat and Mouse - 2D Version" kata.
+
+**Thoughts**: Really itching to get this portfolio done!
