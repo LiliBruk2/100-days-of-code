@@ -119,3 +119,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: More portfolio work - navbar is now responsive, refactored my view code into different modules for each view, got a basic content overlay setup for displaying additional info for project items. Code cardio - solved the "Cat and Mouse - 2D Version" kata.
 
 **Thoughts**: Really itching to get this portfolio done!
+
+### Day 19: April 11, 2018
+
+**Today's Progress**: Summary of portfolio work - Overlay elements now fade in and show additional info about portfolio items when items are clicked. Wired up some basic templating functions with ES2015 template strings that render the content into the overlay element. Had a use case for event delegation for the overlay close button, which gets added dynamically in the template. Code cardio - solved the "Mumbling" kata on Codewars.
+
+**Thoughts**: Really itching to get this portfolio done!
