@@ -125,3 +125,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Summary of portfolio work - Overlay elements now fade in and show additional info about portfolio items when items are clicked. Wired up some basic templating functions with ES2015 template strings that render the content into the overlay element. Had a use case for event delegation for the overlay close button, which gets added dynamically in the template. Code cardio - solved the "Mumbling" kata on Codewars.
 
 **Thoughts**: Really itching to get this portfolio done!
+
+### Day 20: April 12 2018
+
+**Today's Progress**: Just more portfolio work - converted my HTML template to use Pug so that I can leverage responsive-loader. Wanting to do a blurred placeholder on first page load then fade in an appropriately sized full image once that loads.
+
+**Thoughts**: I wonder if I should have gone with a framework such as Bootstrap to make this faster, but I am also happy that I building this portfolio from scratch on my own.
