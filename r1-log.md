@@ -126,8 +126,14 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 **Thoughts**: Really itching to get this portfolio done!
 
-### Day 20: April 12 2018
+### Day 20: April 12, 2018
 
 **Today's Progress**: Just more portfolio work - converted my HTML template to use Pug so that I can leverage responsive-loader. Wanting to do a blurred placeholder on first page load then fade in an appropriately sized full image once that loads.
 
 **Thoughts**: I wonder if I should have gone with a framework such as Bootstrap to make this faster, but I am also happy that I building this portfolio from scratch on my own.
+
+### Day 21: April 13, 2018
+
+**Today's Progress**: Just more portfolio work - profile pic now starts off with a blurred placeholder but loads the appropriately sized image for the viewport. Also added some test project pics so that I could flesh out the structure and styling of my project item cards.
+
+**Thoughts**: Feeling so close but yet so far in terms of my goals to transition into web dev as a career. The list is now finite but still long. When it was still indefinite, it seemed like I had all the time in the world. I know I just need to keep calm and code on.
