@@ -137,3 +137,15 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Just more portfolio work - profile pic now starts off with a blurred placeholder but loads the appropriately sized image for the viewport. Also added some test project pics so that I could flesh out the structure and styling of my project item cards.
 
 **Thoughts**: Feeling so close but yet so far in terms of my goals to transition into web dev as a career. The list is now finite but still long. When it was still indefinite, it seemed like I had all the time in the world. I know I just need to keep calm and code on.
+
+### Day 22: April 14, 2018
+
+**Today's Progress**: Portfolio - project cards now initially load still frames then fade in gifs when those eventually finish downloading. Gifs also display on overlay when user clicks for additional information.
+
+**Thoughts**: As in day 13, feeling so close but yet so far in terms of my goals to transition into web dev as a career. The list is now finite but still long. When it was still indefinite, it seemed like I had all the time in the world. I know I just need to keep calm and code on.
+
+### Day 23: April 15, 2018
+
+**Today's Progress**: Portfolio - added a row to the splash page that displays icons for each technology I know. Those same icons are displayed in the project cards to show what technologies I used for each project. Signed up for my first real hackatho happening next Friday!
+
+**Thoughts**: As in the past few days, feeling so close but yet so far in terms of my goals to transition into web dev as a career. The list is now finite but still long. When it was still indefinite, it seemed like I had all the time in the world. I know I just need to keep calm and code on.
