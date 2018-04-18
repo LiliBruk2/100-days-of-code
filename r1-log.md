@@ -149,3 +149,15 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Portfolio - added a row to the splash page that displays icons for each technology I know. Those same icons are displayed in the project cards to show what technologies I used for each project. Signed up for my first real hackatho happening next Friday!
 
 **Thoughts**: As in the past few days, feeling so close but yet so far in terms of my goals to transition into web dev as a career. The list is now finite but still long. When it was still indefinite, it seemed like I had all the time in the world. I know I just need to keep calm and code on.
+
+### Day 24: April 16, 2018
+
+**Today's Progress**: Portfolio - got a lot done on my contributions section. Also learned about static methods on E2015 classes - used one to create a utility function for generating icons markup for each of my portfolio item cards.
+
+**Thoughts**: Excited that the portfolio is almost done. Getting that much closer to the job search.
+
+### Day 25: April 17, 2018
+
+**Today's Progress**: Portfolio - more styling on the contributions section. Now, just need to create the contacts section, mess with line heights at various viewports, and add a nav button to link to my blog site.
+
+**Thoughts**: Going to my first real icon this weekend!
