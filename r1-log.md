@@ -165,7 +165,8 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 ### Day 26: April 17, 2018
 
 **Today's Progress**:
-+Portfolio - Getting down to the home stretch of the portfolio. Most of the big parts (structure, component behavior, style) are done. Today tweaked things like line-heights and width of p elements to promote readability.
-+FOSS - did a lot of research of FOSS projects out there that need contributions. Opened up my first PR to the "First Contributions" project. Nothing more than adding my name to a markdown file but still a great first pr experience..!
+
+* Portfolio - Getting down to the home stretch of the portfolio. Most of the big parts (structure, component behavior, style) are done. Today tweaked things like line-heights and width of p elements to promote readability.
+* FOSS - did a lot of research of FOSS projects out there that need contributions. Opened up my first PR to the "First Contributions" project. Nothing more than adding my name to a markdown file but still a great first pr experience..!
 
 **Thoughts**: Going to my first real hackathon this weekend!
