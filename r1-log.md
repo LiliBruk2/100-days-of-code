@@ -162,7 +162,7 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 **Thoughts**: Going to my first real hackathon this weekend!
 
-### Day 26: April 17, 2018
+### Day 26: April 18, 2018
 
 **Today's Progress**:
 
@@ -170,3 +170,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 * FOSS - did a lot of research of FOSS projects out there that need contributions. Opened up my first PR to the "First Contributions" project. Nothing more than adding my name to a markdown file but still a great first pr experience..!
 
 **Thoughts**: Going to my first real hackathon this weekend!
+
+### Day 27: April 19, 2018
+
+**Today's Progress**: Portfolio work - I'm pretty much done with 95% of the coding, I think, and now just need to put real content in. Today's work included putting in contacts links in the footer, adding functionality for the overlay pop-up to be close by clicking off, and tweaking line-heights of text at various viewport sizes. I think it'd be a good idea to test this now on a variety of mobile devices as well as my wife's Mac.
+
+**Thoughts**: Stoked to be pretty much done with the portfolio. Really itching to learn React and more Node.js to round out my skillset, too.
