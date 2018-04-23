@@ -176,3 +176,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Portfolio work - I'm pretty much done with 95% of the coding, I think, and now just need to put real content in. Today's work included putting in contacts links in the footer, adding functionality for the overlay pop-up to be close by clicking off, and tweaking line-heights of text at various viewport sizes. I think it'd be a good idea to test this now on a variety of mobile devices as well as my wife's Mac.
 
 **Thoughts**: Stoked to be pretty much done with the portfolio. Really itching to learn React and more Node.js to round out my skillset, too.
+
+### Day 28 - 29: April 20 - 21, 2018
+
+**Today's Progress**: My first hackathon! I attended the 2018 AT&T IoT Civic Hack and it was an incredible learning experience. I had the best team mates any first-time hackathon attendee could ask for. They made sure the group picked a project idea that I could contribute to. They also gave me a lot of responsibility and trusted me with it. We all got along great. In the end, we didn't win but we believed in our idea, got a lot done, learned a lot, and felt like it had a chance to make it to the finals.
+
+**Thoughts**: While we were deciding what technologies to use as a group, the idea of using React Native was entertained but ultimately the idea was dropped so that the project wasn't too complex for me to contribute to. Although I appreciated being thought of and included, I didn't like the feeling of holding back the group. I'll have to learn React and React Native sometime soon.
