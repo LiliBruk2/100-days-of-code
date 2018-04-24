@@ -182,3 +182,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: My first hackathon! I attended the 2018 AT&T IoT Civic Hack and it was an incredible learning experience. I had the best team mates any first-time hackathon attendee could ask for. They made sure the group picked a project idea that I could contribute to. They also gave me a lot of responsibility and trusted me with it. We all got along great. In the end, we didn't win but we believed in our idea, got a lot done, learned a lot, and felt like it had a chance to make it to the finals.
 
 **Thoughts**: While we were deciding what technologies to use as a group, the idea of using React Native was entertained but ultimately the idea was dropped so that the project wasn't too complex for me to contribute to. Although I appreciated being thought of and included, I didn't like the feeling of holding back the group. I'll have to learn React and React Native sometime soon.
+
+### Day 30 - 31: April 22 - 23, 2018
+
+**Today's Progress**: Portfolio - added favicon as well as a "branding" icon that hangs out at the top left of the page, cleaned up SVG indentation so that minifier could work with it. Completed the "Memory Reallocation" and "Calculating with Functions" katas on Codewars.
+
+**Thoughts**: A friend who's learning to code with me just got a positive response from a job app. Encouraging!
