@@ -188,3 +188,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Portfolio - added favicon as well as a "branding" icon that hangs out at the top left of the page, cleaned up SVG indentation so that minifier could work with it. Completed the "Memory Reallocation" and "Calculating with Functions" katas on Codewars.
 
 **Thoughts**: A friend who's learning to code with me just got a positive response from a job app. Encouraging!
+
+### Day 32 - 35: April 24 - 27, 2018
+
+**Today's Progress**: Replacing all the dummy content on my portfolio with real content!
+
+**Thoughts**: It's almost like this is harder than coding - coming up with the actual words to describe myself and my projects. Funny how that works!
