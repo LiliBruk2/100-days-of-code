@@ -200,3 +200,7 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: As in previous entry, replacing all the dummy content on my portfolio with real content. Also, started deploying my project item websites and staging the deploy of my portfolio. Finally, spruced up some of my GitHub project repos by adding a README.md and content to each project.
 
 **Thoughts**: As in the previous entry, it's almost like coming up with content is harder than coding. Funny how that works!
+
+### Day 38: April 30, 2018
+
+**Today's Progress**: Finally deployed my portfolio site! Unfortunately, have to wait 24 hours for my domain name to propogate through the world but feel relieved that the portfolio work is done. Now on to resume work as well as more learning and building!
