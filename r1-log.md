@@ -194,3 +194,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Replacing all the dummy content on my portfolio with real content!
 
 **Thoughts**: It's almost like this is harder than coding - coming up with the actual words to describe myself and my projects. Funny how that works!
+
+### Day 36 - 37: April 28 - 29, 2018
+
+**Today's Progress**: As in previous entry, replacing all the dummy content on my portfolio with real content. Also, started deploying my project item websites and staging the deploy of my portfolio. Finally, spruced up some of my GitHub project repos by adding a README.md and content to each project.
+
+**Thoughts**: As in the previous entry, it's almost like coming up with content is harder than coding. Funny how that works!
