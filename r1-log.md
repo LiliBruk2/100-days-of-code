@@ -204,3 +204,7 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 ### Day 38: April 30, 2018
 
 **Today's Progress**: Finally deployed my portfolio site! Unfortunately, have to wait 24 hours for my domain name to propogate through the world but feel relieved that the portfolio work is done. Now on to resume work as well as more learning and building!
+
+### Day 39: May 1, 2018
+
+**Today's Progress**: Started learning React! It took me awhile to get started with React because I really liked the idea of understanding the fundamentals. However, after experiencing my first hackathon, I saw the value of knowing a framework because it gives the a team a "common language" as far as project structure and team organization.
