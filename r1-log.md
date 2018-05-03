@@ -209,6 +209,8 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 **Today's Progress**: Started learning React! It took me awhile to get started with React because I really liked the idea of understanding the fundamentals. However, after experiencing my first hackathon, I saw the value of knowing a framework because it gives the a team a "common language" as far as project structure and team organization.
 
+**Link(s) to work**: [Portfolio is live!](http://kalalau-cantrell.me)
+
 ### Day 40 - 41: May 2 - 3, 2018
 
 **Today's Progress**: Went through the React docs ande made my first little app with it - it was the "Thinking In React" filterable product table but I made it without looking at the "code-along" code. It was great seeing how state can be a thing that is organized and flows from a single source. As much as I like figuring things out on my own, it's nice leaning on a tried and true solution that many others subscribe to.
