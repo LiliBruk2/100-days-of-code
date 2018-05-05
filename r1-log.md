@@ -216,3 +216,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Went through the React docs ande made my first little app with it - it was the "Thinking In React" filterable product table but I made it without looking at the "code-along" code. It was great seeing how state can be a thing that is organized and flows from a single source. As much as I like figuring things out on my own, it's nice leaning on a tried and true solution that many others subscribe to.
 
 **Thoughts**: Really excited to be at this point where I can learn a framework quickly and start putting it to use right away to make something workable. I know there's a long way to go before I can comfortably say I'm a React developer, but feeling really good about the start.
+
+### Day 42: May 4, 2018
+
+**Today's Progress**: Completed the official React tutorial of making a Tic-Tac-Toe game. The game lets you play against yourself, indicates when a certain player wins, stores the history of moves during the game, and lets you jump back in time to see older versions of the game.
+
+**Thoughts**: May the 4th be with you!
