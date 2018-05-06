@@ -222,3 +222,7 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Completed the official React tutorial of making a Tic-Tac-Toe game. The game lets you play against yourself, indicates when a certain player wins, stores the history of moves during the game, and lets you jump back in time to see older versions of the game.
 
 **Thoughts**: May the 4th be with you!
+
+### Day 42: May 5, 2018
+
+**Today's Progress**: Knocked out the "Breadcrumb Generator" kata on Codewars and ranked up to 5kyu! Heckin heck yeah! Also, set up a personal Trello board to keep track of my to dos for studying, projects, and goals.
