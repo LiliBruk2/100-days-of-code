@@ -223,6 +223,6 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 **Thoughts**: May the 4th be with you!
 
-### Day 42: May 5, 2018
+### Day 43: May 5, 2018
 
 **Today's Progress**: Knocked out the "Breadcrumb Generator" kata on Codewars and ranked up to 5kyu! Heckin heck yeah! Also, set up a personal Trello board to keep track of my to dos for studying, projects, and goals.
