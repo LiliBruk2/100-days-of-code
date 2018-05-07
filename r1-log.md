@@ -226,3 +226,7 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 ### Day 43: May 5, 2018
 
 **Today's Progress**: Knocked out the "Breadcrumb Generator" kata on Codewars and ranked up to 5kyu! Heckin heck yeah! Also, set up a personal Trello board to keep track of my to dos for studying, projects, and goals.
+
+### Day 44: May 6, 2018
+
+**Today's Progress**: Going over the React fundamentals again with Kent C. Dodd's and his course on egghead.io. Although he covers the basics that you can find on the official React docs, actually hearing it and seeing it play out over video is helping it stick. Highly recommend!
