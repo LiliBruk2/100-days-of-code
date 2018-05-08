@@ -230,3 +230,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 ### Day 44: May 6, 2018
 
 **Today's Progress**: Going over the React fundamentals again with Kent C. Dodd's and his course on egghead.io. Although he covers the basics that you can find on the official React docs, actually hearing it and seeing it play out over video is helping it stick. Highly recommend!
+
+### Day 45: May 7, 2018
+
+**Today's Progress**: Almost done with Kent C. Dodd's course. Check out the repository I'm committing to to see details on my progress through the course.
+
+**Link(s) to work**: [Learn React with Kent C. Dodds](https://github.com/klcantrell/learn-react-with-kentcdodds)
