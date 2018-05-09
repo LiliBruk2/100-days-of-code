@@ -236,3 +236,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Almost done with Kent C. Dodd's course. Check out the repository I'm committing to to see details on my progress through the course.
 
 **Link(s) to work**: [Learn React with Kent C. Dodds](https://github.com/klcantrell/learn-react-with-kentcdodds)
+
+### Day 46: May 8, 2018
+
+**Today's Progress**: Finished Kent C. Dodd's course and now going over the fundamentals one more time with a quick run through Joe Maddalone's _Start Learning React_ course on egghead.io. Check out the repository I'm committing to to see details on my progress through the course.
+
+**Link(s) to work**: [Learn React with Joe Maddalone](https://github.com/klcantrell/learn-react-with-joemaddalone)
