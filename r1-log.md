@@ -242,3 +242,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Finished Kent C. Dodd's course and now going over the fundamentals one more time with a quick run through Joe Maddalone's _Start Learning React_ course on egghead.io. Check out the repository I'm committing to to see details on my progress through the course.
 
 **Link(s) to work**: [Learn React with Joe Maddalone](https://github.com/klcantrell/learn-react-with-joemaddalone)
+
+### Day 47: May 9, 2018
+
+**Today's Progress**: Reviewed lots of React basics - stateful vs. stateless components, props and state, the synthetic event system, lifecycle methods, how to reference the actual DOM if need be, prop validation..., WHEW! I think I'm starting to retain the info though and glad I spent a lot of time getting vanilla JS basics down pat before diving into framework land.
+
+**Link(s) to work**: [Learn React with Joe Maddalone](https://github.com/klcantrell/learn-react-with-joemaddalone)
