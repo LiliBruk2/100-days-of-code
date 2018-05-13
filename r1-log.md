@@ -248,3 +248,9 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Reviewed lots of React basics - stateful vs. stateless components, props and state, the synthetic event system, lifecycle methods, how to reference the actual DOM if need be, prop validation..., WHEW! I think I'm starting to retain the info though and glad I spent a lot of time getting vanilla JS basics down pat before diving into framework land.
 
 **Link(s) to work**: [Learn React with Joe Maddalone](https://github.com/klcantrell/learn-react-with-joemaddalone)
+
+### Day 48 - 50: May 10 - 12, 2018
+
+**Today's Progress**: Reviewed React basics - using map to programmatically create components, .Children utilities, the .cloneElement utility, and how to parameterize components to make them reusable.
+
+**Link(s) to work**: [Learn React with Joe Maddalone](https://github.com/klcantrell/learn-react-with-joemaddalone)
