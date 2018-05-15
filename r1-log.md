@@ -254,3 +254,13 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 **Today's Progress**: Reviewed React basics - using map to programmatically create components, .Children utilities, the .cloneElement utility, and how to parameterize components to make them reusable.
 
 **Link(s) to work**: [Learn React with Joe Maddalone](https://github.com/klcantrell/learn-react-with-joemaddalone)
+
+### Day 51 - 52: May 13 - 14, 2018
+
+**Today's Progress**:
+
+* Giving the basics of React one more review with Colt Steele and friends - how to create and compose multiple React components and scaffold an app with create-react-app.
+* Also, made updates to the portfolio especially regarding gifs. Making sure gifs don't play unless hovered over or touchstarted - trying to cut down on the jank it causes otherwise. Also, fixed some things that weren't showing up right in IE 11: text overflowing in the contributions section, feDropShadow causing an SVG not to appear, and headers in the overflow overlay being covered by the close button.
+* Made some updates to the HydraBase project so that layout would look right in a mobile sized viewport.
+
+**Link(s) to work**: [K-Warbler](https://github.com/klcantrell/k-warbler)
