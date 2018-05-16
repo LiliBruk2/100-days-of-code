@@ -264,3 +264,7 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 * Made some updates to the HydraBase project so that layout would look right in a mobile sized viewport.
 
 **Link(s) to work**: [K-Warbler](https://github.com/klcantrell/k-warbler)
+
+### Day 53: May 15, 2018
+
+**Today's Progress**: Reviewing props, propTypes, and default props by making components for a simple recipe app UI.  Quite fun making UIs with components!
