@@ -271,4 +271,4 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 ### Day 54 - 55: May 16 - 17, 2018
 
-**Today's Progress**: Reviewing state, component architecture (where state lives, how state flows, stateless components, etc.), and how to attach events to components.
+**Today's Progress**: Reviewing state, component architecture (where state lives, how state flows, stateless components, etc.), how to attach events to components, and how to control form elements with React.
