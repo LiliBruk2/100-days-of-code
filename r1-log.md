@@ -267,4 +267,8 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 
 ### Day 53: May 15, 2018
 
-**Today's Progress**: Reviewing props, propTypes, and default props by making components for a simple recipe app UI.  Quite fun making UIs with components!
+**Today's Progress**: Reviewing props, propTypes, and default props by making components for a simple recipe app UI. Quite fun making UIs with components!
+
+### Day 54 - 55: May 16 - 17, 2018
+
+**Today's Progress**: Reviewing state, component architecture (where state lives, how state flows, stateless components, etc.), and how to attach events to components.
