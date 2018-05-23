@@ -272,3 +272,7 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 ### Day 54 - 55: May 16 - 17, 2018
 
 **Today's Progress**: Reviewing state, component architecture (where state lives, how state flows, stateless components, etc.), how to attach events to components, and how to control form elements with React.
+
+### Day 56 - 60: May 18 - 22, 2018
+
+**Today's Progress**: Have not been posting a lot lately but I have been coding a lot. Made a couple of small React apps such as a todo list, a recipe app, a memory game, and a guessing game to get practice with all the concepts I've learned thus far. Next, going to be making a small full stack React/Express/MongoDB app to tie things together even more. Then hope to get cracking on some bigger projects.
