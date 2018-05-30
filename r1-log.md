@@ -276,3 +276,11 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 ### Day 56 - 60: May 18 - 22, 2018
 
 **Today's Progress**: Have not been posting a lot lately but I have been coding a lot. Made a couple of small React apps such as a todo list, a recipe app, a memory game, and a guessing game to get practice with all the concepts I've learned thus far. Next, going to be making a small full stack React/Express/MongoDB app to tie things together even more. Then hope to get cracking on some bigger projects.
+
+### Day 61 - 67: May 23 - 29, 2018
+
+**Today's Progress**: Not a ton of posting, but a ton of coding.
+
+* Started learning Redux.
+* Made a contribution to a local open source project and got it merged!
+* Started a full-stack project with a friend - he's working on the back-end and I on the front-end. Stack so far is React + Redux, GoLang, and variety of coverage frameworks including Jest, Code Climate, and Travis CI.
