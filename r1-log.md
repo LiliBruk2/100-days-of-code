@@ -284,3 +284,11 @@ The log of my #100DaysOfCode challenge. Started on March 24, Saturday, 2018.
 * Started learning Redux.
 * Made a contribution to a local open source project and got it merged!
 * Started a full-stack project with a friend - he's working on the back-end and I on the front-end. Stack so far is React + Redux, GoLang, and variety of coverage frameworks including Jest, Code Climate, and Travis CI.
+
+### Day 68 - 71: May 30 - June 2, 2018
+
+**Today's Progress**: Coded for an hour or more everyday - catching up with posts:
+
+* Practice wiring React-Redux inside of a (big surprise) basic todo app
+* Practice integrating React, Redux, Redux Thunk, React Router, and a basic Node setup by creating a (you guessed it) basic todo app
+* Had a merge request go through for a form widget feature I created for a React app I'm working on with a friend
